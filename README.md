@@ -1,4 +1,4 @@
-# 参考
+# 参考: Reactチュートリアル
 https://ja.reactjs.org/tutorial/tutorial.html
 
 
